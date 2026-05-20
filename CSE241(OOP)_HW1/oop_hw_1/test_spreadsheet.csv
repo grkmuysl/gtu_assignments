@@ -1,0 +1,6 @@
+A,B,C,D
+Header1,Header2,Header3,
+25,100,Text,Extra
+50,200,=MAX(A2..A4),Values
+75,=AVER(A2..A4),=MIN(A2..A4),
+=SUM(A2..A4),300,=STDDEV(A2..A4),=SUM(B2..B4)

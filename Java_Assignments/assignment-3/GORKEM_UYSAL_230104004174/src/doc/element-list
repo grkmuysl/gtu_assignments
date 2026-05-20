@@ -1,0 +1,10 @@
+HWSystem.Devices
+HWSystem.Devices.Display
+HWSystem.Devices.MotorDriver
+HWSystem.Devices.Ports
+HWSystem.Devices.Sensor
+HWSystem.Devices.Sensor.IMUSensor
+HWSystem.Devices.Sensor.TempSensor
+HWSystem.Devices.WirelessIO
+HWSystem.EmbeddedSystem
+HWSystem.Protocols

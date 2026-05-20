@@ -1,0 +1,7 @@
+./src/Entry/Entry.java
+./src/GTUHashMap/GTUHashMap.java
+./src/GTUHashSet/GTUHashSet.java
+./src/Main/Main.java
+./src/MyList/MyList.java
+./src/Operations/Operations.java
+./src/SpellChecker/SpellChecker.java
